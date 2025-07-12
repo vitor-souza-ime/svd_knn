@@ -1,5 +1,4 @@
 
-````markdown
 # Análise Comparativa entre SVD e KNN em Sistemas de Recomendação
 
 Este projeto realiza uma análise comparativa entre dois algoritmos de sistemas de recomendação:  
